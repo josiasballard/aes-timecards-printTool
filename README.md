@@ -37,11 +37,15 @@ Build for production:
 Deploy to GitHub Pages:  
 `npm run deploy`
 
+
 ## 📂 Project Structure
+
+```
 aes-timecards-printTool/
 ├── src/       # App logic and layout
 ├── public/    # Static assets
 └── dist/      # Built site for GitHub Pages
+```
 
 
 ## 🧾 PDF Output Example
